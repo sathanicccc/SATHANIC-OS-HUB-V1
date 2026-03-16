@@ -1,0 +1,17 @@
+{
+  "name": "SATHANIC-OS-HUB-V1",
+  "version": "1.0.0",
+  "description": "2030 Style WhatsApp Bot for Termux",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^8.0.0",
+    "axios": "^1.4.0",
+    "fs-extra": "^11.1.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "gtts": "^0.2.1",
+    "ytdl-core": "latest",
+    "node-cache": "^5.1.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
